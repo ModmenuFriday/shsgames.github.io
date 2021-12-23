@@ -1,4 +1,4 @@
-# SHS Games
+# Coolmathgames
 Collectively building an online game hub for the brave!
 
 ## Links
